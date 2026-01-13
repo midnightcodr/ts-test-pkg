@@ -1,6 +1,6 @@
 {
-  "name": "ts-test-pkg",
-  "version": "1.0.1",
+  "name": "mr-ts-test-pkg",
+  "version": "1.0.2",
   "description": "",
   "outDir": "./dist",
   "scripts": {
