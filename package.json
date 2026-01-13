@@ -1,6 +1,6 @@
 {
   "name": "ts-test-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "outDir": "./dist",
   "scripts": {
@@ -17,5 +17,9 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "moduleResolution": "node"
+  "moduleResolution": "node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/midnightcodr/ts-test-pkg"
+  }
 }
