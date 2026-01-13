@@ -1,0 +1,21 @@
+{
+  "name": "ts-test-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "outDir": "./dist",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run build"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "moduleResolution": "node"
+}
